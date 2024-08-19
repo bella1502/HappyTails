@@ -1,7 +1,3 @@
-Here’s a complete README file template for your "HappyTails UX Design" repository:
-
----
-
 # HappyTails UX Design
 
 ## Project Overview
