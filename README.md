@@ -37,13 +37,13 @@ We conducted user interviews and surveys to understand the needs and pain points
 
 ## Design Process
 ### User Flows
-The user flows map the journey from app onboarding to the completion of the adoption process. [[View User Flow](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=20-558&t=PRy5ZYjZ6Kicn40A-1)](#)
+The user flows map the journey from app onboarding to the completion of the adoption process. [[View User Flow](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=20-558&t=PRy5ZYjZ6Kicn40A-1)]
 
 ### Wireframes
-We created both low-fidelity and high-fidelity wireframes to outline the structure and layout of key screens. [[View Wireframes](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=0-1&t=PRy5ZYjZ6Kicn40A-1)](#)
+We created both low-fidelity and high-fidelity wireframes to outline the structure and layout of key screens. [[View Wireframes](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=0-1&t=PRy5ZYjZ6Kicn40A-1)]
 
 ### Prototypes
-Interactive prototypes were developed to demonstrate user interactions and app functionality. [[View Prototypes](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=84-1011&t=PRy5ZYjZ6Kicn40A-1)](#)
+Interactive prototypes were developed to demonstrate user interactions and app functionality. [[View Prototypes](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=84-1011&t=PRy5ZYjZ6Kicn40A-1)]
 
 ### Design System
 The design system includes all visual and interaction elements, ensuring consistency across the app:
@@ -53,7 +53,7 @@ The design system includes all visual and interaction elements, ensuring consist
 
 ## Installation/Viewing Instructions
 ### How to Access Designs
-- **Wireframes and Prototypes:** Accessible via [[Figma/Adobe XD Link](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=84-1011&t=PRy5ZYjZ6Kicn40A-1)](#).
+- **Wireframes and Prototypes:** Accessible via [[Figma/Adobe XD Link](https://www.figma.com/design/5i7ZlEBZ5lZg3ZQpox95Sd/Untitled?node-id=84-1011&t=PRy5ZYjZ6Kicn40A-1)].
 - **Design System:** Available within the design tool linked above.
 
 ### Tools Required
@@ -70,13 +70,10 @@ Contributions are welcome! Please follow these steps:
 ### Code of Conduct
 Please respect others and maintain a positive and inclusive environment.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](#) file for details.
-
 ## Contact Information
 For any questions or collaboration opportunities, feel free to reach out:
 - **Email:** [kalpanasingh7542@gmail.com](mailto:kalpanasingh7542@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/kalpana-singh-17009a230](#)
+- **LinkedIn:** [www.linkedin.com/in/kalpana-singh-17009a230]
 
 ## Acknowledgments
 Special thanks to all contributors and the community for their valuable feedback and support.
